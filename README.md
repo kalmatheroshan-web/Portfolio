@@ -1,16 +1,40 @@
-# React + Vite
+# Roshan Kalmathe — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium, high-contrast brutalist portfolio built with **React**, **Tailwind CSS**, and **Lucide Icons**. This application functions as a modern developer terminal dashboard featuring automated background structural grids, neon glowing micro-interactions, responsive mock-browser viewports, and deep-linked interactive CTAs.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Check out the live deployment here: [fikrishop.vercel.app](https://fikrishop.vercel.app/) *(Or your direct custom portfolio domain)*
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack & Architecture
 
-## Expanding the ESLint configuration
+* **Frontend Library:** React.js (Functional Components & Hooks)
+* **Styling Engine:** Tailwind CSS (Utility-first configuration)
+* **Design Paradigm:** Premium Dark Mode / Brutalist Grid Design / Glassmorphism
+* **Icons:** Lucide React
+* **Deployment:** Vercel / Netlify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+* **Premium Interactive UI:** Features custom background grid utilities (`linear-gradient`) and absolute glowing container systems to draw focus to central hero typography.
+* **Fluid Responsive Typography:** Engineered with custom break-scaling breakpoints (`text-5xl` up to `lg:text-[8.5rem]`) keeping massive display headings perfect on ultra-wide screens down to mobile viewports.
+* **Dynamic Browser Sandbox:** Includes a fully responsive live preview wrapper mimicking real desktop applications using optimized ratio viewports (`aspect-video`).
+* **Integrated Action Items:** Single-click operational anchors handling native background resume downloads alongside multi-channel developer contact pipes (GitHub, LinkedIn, WhatsApp API hookups).
+
+---
+
+## 💻 Getting Started
+
+Follow these steps to run this portfolio on your local machine:
+
+### 1. Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### 2. Clone the Repository
+```bash
+git clone [https://github.com/kalmatheroshan-web/portfolio.git](https://github.com/kalmatheroshan-web/portfolio.git)
+cd portfolio
