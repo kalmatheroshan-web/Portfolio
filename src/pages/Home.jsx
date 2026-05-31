@@ -25,7 +25,7 @@ export default function RoshanPortfolio() {
           {/* Left Hero Column */}
           <div className="max-w-4xl flex-1">
             <p className="text-orange-500 uppercase tracking-[0.3em] md:tracking-[0.4em] text-[10px] md:text-xs font-bold mb-4 md:mb-6">
-              SYSTEM ACTIVE // FULL STACK ENGINEER
+              // Full Stack Developer
             </p>
 
             <h1 className="text-5xl sm:text-7xl md:text-8xl lg:text-[8.5rem] font-black italic uppercase leading-[0.85] tracking-tighter breakdown-words">
