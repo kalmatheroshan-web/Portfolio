@@ -94,7 +94,7 @@ export default function RoshanPortfolio() {
                   Focus
                 </p>
                 <p className="font-medium text-gray-300 leading-relaxed">
-                  Performance, Security, Architecture & UI Systems
+                   Backend work, security , Authentication & Data access
                 </p>
               </div>
             </div>
